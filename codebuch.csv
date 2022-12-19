@@ -2,7 +2,7 @@ Edge-Attribute
 from
 ID des Knoten Person oder Organisation
 to
-"ID des Knoten Organisation, in der die Person gearbeitet hat"
+"ID des Knoten Organisation, in der die Person aktiv war"
 relation 
 Art der Beziehung zwischen den Personen oder einer Person und einer Organisation
 1= Freundschaft
